@@ -49,7 +49,7 @@ This project is licensed under the MIT License.
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ## Contact
-For questions or suggestions, reach out via [your-email@example.com].
+For questions or suggestions, reach out via [virajsharma@sharmaviraj.com].
 
 # mcp-websocket
 This server implements an MCP (Model Context Protocol) server with WebSocket enhancements for real-time data updates.
